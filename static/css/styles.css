@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    margin: 0em;
+    font-family: 'Gluten', cursive;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+table {
+    padding-left: 25%;
+}
+
+td {
+    padding-right: 100px;
+    text-align: left;
+}
+
+.topic-heading {
+    padding-bottom: 50px;
+}
+
+.intro-container {
+    background-color: #74BDCB;
+    padding: 100px; 
+    font-size: 1.2rem;
+}
+
+.python-container {
+    background-color: #E7F2F8;
+    padding: 100px;
+}
+
+.flask-container {
+    background-color: #EFE7BC;
+    padding: 100px;
+    padding-right: 200px;
+}
+
+.flask-h2 {
+    padding-bottom: 40px;
+}
+
+.contact-container {
+    background-color: #FFA384;
+    padding: 100px;
+}
+
+.contact-h2 {
+    padding-bottom: 25px;
+}
+.contact-link {
+    text-decoration: none;
+    padding: 30px;
+    color: darkred;
+    font-size: 1.3rem;
+}
